@@ -13,3 +13,5 @@ ref/
 siwe_login.py
 *.py
 !scripts/*.py
+circuits/vk_policy.json
+circuits/vk_gatekeeper.json
