@@ -9,3 +9,7 @@ empty.json
 siwe_msg.txt
 rsc.txt
 register_auth.html
+ref/
+siwe_login.py
+*.py
+!scripts/*.py
